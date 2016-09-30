@@ -1,0 +1,9 @@
+Package: com.ihack102.wasemoji
+Name: WASEmoji
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: re-enable small emoji in whatsApp
+Maintainer: iHack102
+Author: iHack102
+Section: Tweaks
